@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-dkxbh7.jambul126.xyz/sitemap.xml
